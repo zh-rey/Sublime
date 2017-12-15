@@ -1,0 +1,6 @@
+{
+  // window下终端路径
+  "terminal": "C:\\Windows\\System32\\cmd.exe",
+  //  window下终端参数
+  "parameters": ["/START", "%CWD%"]
+}

@@ -1,0 +1,7 @@
+{
+	"minName": "min",
+	"minify": true,
+	"outputDir": "auto",
+	"autoCompile": true,
+	"createCssSourceMaps": true
+}

@@ -1,0 +1,16 @@
+[
+	{
+        "keys": ["alt+f12"],
+        "command": "side_bar_open_in_browser",
+        "args": {
+                    "paths": [],
+                    "type": "testing",
+                    "browser": ""
+                }
+    },
+    {
+    	"keys": ["ctrl+f9"],
+    	"command": "autoprefixer"
+    },
+    { "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/Default/Add Line.sublime-macro"} }
+]

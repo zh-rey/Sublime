@@ -1,0 +1,12 @@
+{
+	"TortoiseProcPath": "C:/Program Files/TortoiseSVN/bin/TortoiseProc.exe",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"word_wrap": true
+}

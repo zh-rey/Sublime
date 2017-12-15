@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"Boxy Theme",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Keymaps",
+		"LESS",
+		"Less2Css",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeServer",
+		"SVN",
+		"Terminal",
+		"Vue Syntax Highlight"
+	]
+}
